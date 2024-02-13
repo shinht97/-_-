@@ -1,11 +1,11 @@
----
-## Foot Print Project
+
+# Foot Print Project
 
 ###### LINK: [INTEL AI SW ACADEMY](https://kg.korchamhrd.net/education/professionalSkillEduDetail.do?rootMenuId=3417&menuId=3422&gaebalwon_cd=04000&gwajeong_no=M2023028)
 Face recognition of missing children as adults `AI Model`
 
----
-#### Members
+
+## Members
 
 <table>
   <tbody>
@@ -17,8 +17,14 @@ Face recognition of missing children as adults `AI Model`
   </tbody>
 </table>
 
----
-### Project
+## Project
 1. Face Detection
 2. Face Recognition
 3. Face Gan
+
+
+## Records
+`2024-02-13` : Project Start
+- mediapipe : 신뢰도 낮음
+- retinaface : TRY
+- opencv : TRY
