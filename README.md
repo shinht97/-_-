@@ -1,8 +1,8 @@
 ---
-## Foot Print TEAM
+## Foot Print Project
 
 ###### LINK: [INTEL AI SW ACADEMY](https://kg.korchamhrd.net/education/professionalSkillEduDetail.do?rootMenuId=3417&menuId=3422&gaebalwon_cd=04000&gwajeong_no=M2023028)
-User Region based restaurant recommendation `AI Model`
+Face recognition of missing children as adults `AI Model`
 
 ---
 #### Members
@@ -19,6 +19,6 @@ User Region based restaurant recommendation `AI Model`
 
 ---
 ### Project
-- Face GAN
-- Face Detection
-- Face recogrition
+1. Face Detection
+2. Face Recognition
+3. Face Gan
