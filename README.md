@@ -18,10 +18,7 @@ User Region based restaurant recommendation `AI Model`
 </table>
 
 ---
-#### Language
-Python
-
----
-#### Tools
-Pycharm
-
+### Project
+- Face GAN
+- Face Detection
+- Face recogrition
