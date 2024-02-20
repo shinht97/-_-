@@ -19,5 +19,8 @@ Face recognition of missing children as adults `AI Model`
 ---
 ### Project
 1. Face Detection
+- 80% 완성. 보완 필요
 2. Face Recognition
+- 100%
 3. Face Gan
+- 논의 중
